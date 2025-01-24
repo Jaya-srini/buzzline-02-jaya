@@ -99,3 +99,7 @@ Managing Python virtual environments is a valuable skill.
 This project is licensed under the MIT License as an example project. 
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
+
+## To run the custom code 
+python3 -m consumers.kafka_consumer_jaya
+python3 -m consumers.kafka_consumer_jaya
